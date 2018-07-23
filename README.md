@@ -10,3 +10,10 @@
 ### How to contribute
 
  - Create an issue
+ - Resolve an issue
+
+### Team
+
+ - Alex Pliutau. main organizer
+ - Tuan Vuong. landing dev
+ - Tanya Shumskaya. marketing
