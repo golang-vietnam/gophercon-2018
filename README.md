@@ -1,0 +1,2 @@
+# gophercon
+For organization discussion
